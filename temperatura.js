@@ -11,4 +11,6 @@ console.log("Semana de muita chuva, podendo ocorrer alagamentos");
 
 console.log("Calor acima do esperado no próximo feriado");
 
+console.log("Chuvas acima do normal");
+
 
