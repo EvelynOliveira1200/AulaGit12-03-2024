@@ -9,3 +9,5 @@ console.log("Hoje o dia está muito calor, hidrate-se!");
 
 console.log("Amanhã será um dia ensolarado");
 
+console.log("Sexta-feira será um dia nublado");
+
