@@ -17,5 +17,7 @@ console.log("O dia está muito seco");
 
 console.log("Tempestasdes detctadas nos proximos dias");
 
+console.log("Teste");
+
 
 
