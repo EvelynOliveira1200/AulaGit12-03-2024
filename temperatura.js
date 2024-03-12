@@ -15,4 +15,7 @@ console.log("Chuvas acima do normal");
 
 console.log("O dia está muito seco");
 
+console.log("Tempestasdes detctadas nos proximos dias");
+
+
 
